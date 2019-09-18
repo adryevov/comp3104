@@ -75,10 +75,13 @@ typings/
 # nuxt.js build output
 .nuxt
 
+<<<<<<< HEAD
 # gatsby files
 .cache/
 public
 
+=======
+>>>>>>> 5e468bc7af0b4017e790e9ef48801e925e6fb724
 # vuepress build output
 .vuepress/dist
 
