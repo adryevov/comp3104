@@ -7,3 +7,4 @@
 =======
 # test
 >>>>>>> 41a5d3204e772ae6a6513eb002cfba045da9d5ba
+[![Build Status](https://travis-ci.org/adryevov/comp3104.svg?branch=master)](https://travis-ci.org/adryevov/comp3104)
