@@ -1,0 +1,23 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD <<<<<<< HEAD # GBC - DevOps ======= # comp3104_wk3 >>>>>>> 7e501e92aa12a83e65ed61d6460ded999738d4ca ======= # test >>>>>>> 41a5d3204e772ae6a6513eb002cfba045da9d5ba",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adryevov/comp3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adryevov/comp3104/issues"
+  },
+  "homepage": "https://github.com/adryevov/comp3104#readme"
+}
